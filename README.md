@@ -15,4 +15,4 @@ Deploymentsssss
 
 ## How to Contribute
 
-Git training
+Git training going on
