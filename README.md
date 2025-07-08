@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub.Adding line for rebasing, more changes from feature branch
+This repository is for showing how Git and GitHub.Adding line for rebasing, more changes from feature branch. Updating for emergency fix after stashing.
 
 ## Introduction
 
