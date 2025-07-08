@@ -16,3 +16,6 @@ Deploymentsssss
 ## How to Contribute
 
 Git training going on
+
+### Copywright
+All rights
